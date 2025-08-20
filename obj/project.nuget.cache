@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jdAzHAVbleQ=",
+  "dgSpecHash": "LxaetjE0Qnc=",
   "success": true,
   "projectFilePath": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Anl\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Anl\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Anl\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Anl\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",
