@@ -80,3 +80,4 @@ C:\Users\Anl\source\repos\ApiProje\ApiProjeKampi.WebApi\obj\Debug\net6.0\refint\
 C:\Users\Anl\source\repos\ApiProje\ApiProjeKampi.WebApi\obj\Debug\net6.0\ApiProjeKampi.WebApi.pdb
 C:\Users\Anl\source\repos\ApiProje\ApiProjeKampi.WebApi\obj\Debug\net6.0\ApiProjeKampi.WebApi.genruntimeconfig.cache
 C:\Users\Anl\source\repos\ApiProje\ApiProjeKampi.WebApi\obj\Debug\net6.0\ref\ApiProjeKampi.WebApi.dll
+C:\Users\Anl\source\repos\ApiProje\ApiProjeKampi.WebApi\bin\Debug\net6.0\FluentValidation.dll
