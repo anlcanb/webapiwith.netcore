@@ -7,24 +7,16 @@
       "RelativeMoniker": "D:0:0:{6D717001-8108-4BE1-8C33-6AA9DAA99731}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|solutionrelative:apiprojekampi.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D717001-8108-4BE1-8C33-6AA9DAA99731}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|c:\\users\\anl\\source\\repos\\apiproje\\apiprojekampi.webui\\wwwroot\\yummy-red-1.0.0\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D717001-8108-4BE1-8C33-6AA9DAA99731}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|solutionrelative:apiprojekampi.webui\\wwwroot\\yummy-red-1.0.0\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6D717001-8108-4BE1-8C33-6AA9DAA99731}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|c:\\users\\anl\\source\\repos\\apiproje\\apiprojekampi.webui\\viewcomponents\\_headdefaultcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D717001-8108-4BE1-8C33-6AA9DAA99731}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|solutionrelative:apiprojekampi.webui\\viewcomponents\\_headdefaultcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D717001-8108-4BE1-8C33-6AA9DAA99731}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|c:\\users\\anl\\source\\repos\\apiproje\\apiprojekampi.webui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D717001-8108-4BE1-8C33-6AA9DAA99731}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|solutionrelative:apiprojekampi.webui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D717001-8108-4BE1-8C33-6AA9DAA99731}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|c:\\users\\anl\\source\\repos\\apiproje\\apiprojekampi.webui\\viewcomponents\\_navbardefaultcomponentpanelpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D717001-8108-4BE1-8C33-6AA9DAA99731}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|solutionrelative:apiprojekampi.webui\\viewcomponents\\_navbardefaultcomponentpanelpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4F8E21-2AFF-485E-8FCF-A3571BE8B1E8}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|c:\\users\\anl\\source\\repos\\apiproje\\apiprojekampi.webapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4F8E21-2AFF-485E-8FCF-A3571BE8B1E8}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|solutionrelative:apiprojekampi.webapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A4F8E21-2AFF-485E-8FCF-A3571BE8B1E8}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|c:\\users\\anl\\source\\repos\\apiproje\\apiprojekampi.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4F8E21-2AFF-485E-8FCF-A3571BE8B1E8}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|solutionrelative:apiprojekampi.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A4F8E21-2AFF-485E-8FCF-A3571BE8B1E8}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|c:\\users\\anl\\source\\repos\\apiproje\\apiprojekampi.webapi\\dtos\\productdtos\\resultproductwithcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A4F8E21-2AFF-485E-8FCF-A3571BE8B1E8}|ApiProjeKampi.WebApi\\ApiProjeKampi.WebApi.csproj|solutionrelative:apiprojekampi.webapi\\dtos\\productdtos\\resultproductwithcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D717001-8108-4BE1-8C33-6AA9DAA99731}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|c:\\users\\anl\\source\\repos\\apiproje\\apiprojekampi.webui\\views\\shared\\components\\_navbardefaultcomponentpanelpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D717001-8108-4BE1-8C33-6AA9DAA99731}|ApiProjeKampi.WebUI\\ApiProjeKampi.WebUI.csproj|solutionrelative:apiprojekampi.webui\\views\\shared\\components\\_navbardefaultcomponentpanelpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,19 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebUI\\Views\\Shared\\Components\\_NavbarDefaultComponentPanelPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "ApiProjeKampi.WebUI\\Views\\Shared\\Components\\_NavbarDefaultComponentPanelPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebUI\\Views\\Shared\\Components\\_NavbarDefaultComponentPanelPartial\\Default.cshtml*",
+              "RelativeToolTip": "ApiProjeKampi.WebUI\\Views\\Shared\\Components\\_NavbarDefaultComponentPanelPartial\\Default.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T13:23:31.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_NavbarDefaultComponentPanelPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebUI\\ViewComponents\\_NavbarDefaultComponentPanelPartial.cs",
+              "RelativeDocumentMoniker": "ApiProjeKampi.WebUI\\ViewComponents\\_NavbarDefaultComponentPanelPartial.cs",
+              "ToolTip": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebUI\\ViewComponents\\_NavbarDefaultComponentPanelPartial.cs",
+              "RelativeToolTip": "ApiProjeKampi.WebUI\\ViewComponents\\_NavbarDefaultComponentPanelPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:18:36.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebUI\\wwwroot\\yummy-red-1.0.0\\index.html",
-              "RelativeDocumentMoniker": "ApiProjeKampi.WebUI\\wwwroot\\yummy-red-1.0.0\\index.html",
-              "ToolTip": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebUI\\wwwroot\\yummy-red-1.0.0\\index.html",
-              "RelativeToolTip": "ApiProjeKampi.WebUI\\wwwroot\\yummy-red-1.0.0\\index.html",
-              "ViewState": "AgIAAH8EAAAAAAAAAAAcwKQEAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-08-25T08:17:37.833Z",
+              "Title": "_HeadDefaultComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebUI\\ViewComponents\\_HeadDefaultComponentPartial.cs",
+              "RelativeDocumentMoniker": "ApiProjeKampi.WebUI\\ViewComponents\\_HeadDefaultComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebUI\\ViewComponents\\_HeadDefaultComponentPartial.cs",
+              "RelativeToolTip": "ApiProjeKampi.WebUI\\ViewComponents\\_HeadDefaultComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:23:17.36Z",
               "EditorCaption": ""
             },
             {
@@ -57,60 +75,10 @@
               "RelativeDocumentMoniker": "ApiProjeKampi.WebUI\\Views\\Default\\Index.cshtml",
               "ToolTip": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebUI\\Views\\Default\\Index.cshtml*",
               "RelativeToolTip": "ApiProjeKampi.WebUI\\Views\\Default\\Index.cshtml*",
-              "ViewState": "AgIAAH0EAAAAAAAAAAAkwKEEAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T08:16:33.317Z",
+              "WhenOpened": "2025-08-25T12:20:24.415Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebUI\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "ApiProjeKampi.WebUI\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebUI\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "ApiProjeKampi.WebUI\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T08:08:41.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebApi\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "ApiProjeKampi.WebApi\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebApi\\Entities\\Product.cs",
-              "RelativeToolTip": "ApiProjeKampi.WebApi\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T07:05:11.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResultProductWithCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebApi\\Dtos\\ProductDtos\\ResultProductWithCategoryDto.cs",
-              "RelativeDocumentMoniker": "ApiProjeKampi.WebApi\\Dtos\\ProductDtos\\ResultProductWithCategoryDto.cs",
-              "ToolTip": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebApi\\Dtos\\ProductDtos\\ResultProductWithCategoryDto.cs",
-              "RelativeToolTip": "ApiProjeKampi.WebApi\\Dtos\\ProductDtos\\ResultProductWithCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T07:04:31.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebApi\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ApiProjeKampi.WebApi\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Anl\\source\\repos\\ApiProje\\ApiProjeKampi.WebApi\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ApiProjeKampi.WebApi\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T19:23:55.906Z"
             }
           ]
         }

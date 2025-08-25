@@ -216,3 +216,4 @@ C:\Users\Anl\source\repos\ApiProje\ApiProjeKampi.WebUI\obj\Debug\net6.0\refint\A
 C:\Users\Anl\source\repos\ApiProje\ApiProjeKampi.WebUI\obj\Debug\net6.0\ApiProjeKampi.WebUI.pdb
 C:\Users\Anl\source\repos\ApiProje\ApiProjeKampi.WebUI\obj\Debug\net6.0\ApiProjeKampi.WebUI.genruntimeconfig.cache
 C:\Users\Anl\source\repos\ApiProje\ApiProjeKampi.WebUI\obj\Debug\net6.0\ref\ApiProjeKampi.WebUI.dll
+C:\Users\Anl\source\repos\ApiProje\ApiProjeKampi.WebUI\obj\Debug\net6.0\ApiProjeKampi.WebUI.sourcelink.json

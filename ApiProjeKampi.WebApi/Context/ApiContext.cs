@@ -7,10 +7,10 @@ public class ApiContext : DbContext
 {
     private readonly IConfiguration _configuration;
 
-    // Parametresiz constructor ekledik → migration sırasında çalışsın diye
+    
     public ApiContext()
     {
-        // Migration esnasında appsettings.json'dan bağlantı alacak
+        
         var builder = new ConfigurationBuilder()
             .SetBasePath(Directory.GetCurrentDirectory())
             .AddJsonFile("appsettings.json");
